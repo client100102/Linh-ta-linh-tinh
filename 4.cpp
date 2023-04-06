@@ -1,3 +1,4 @@
+// vẽ hình trái tim cơ bản
 #include <iostream>
 #include<math.h>
 
