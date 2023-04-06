@@ -1,3 +1,4 @@
+//trò chơi đoán số random từ 1 đến 100 cơ bản
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
