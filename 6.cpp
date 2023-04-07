@@ -1,3 +1,4 @@
+//Nhap a, b. Tinh cong, tru, nhan, chia hai so a, b :v
 #include <iostream>
 using namespace std;
 
