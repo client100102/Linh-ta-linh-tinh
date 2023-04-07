@@ -1,5 +1,4 @@
-/*Tinh tuoi bang cch nhap nam sinh, neu nhap lon hon nam hien tai, chu
-thi bao loi*/
+/*Tinh tuoi bang cch nhap nam sinh, neu nhap lon hon nam hien tai, chu thi bao loi*/
 #include <iostream>
 
 using namespace std;
